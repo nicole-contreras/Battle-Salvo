@@ -17,5 +17,7 @@ The Driver class handles the main execution flow of the game. It runs the PA03 i
 ## UML Diagram
 The UML diagram for the BattleSalvo implementation shows the classes, interfaces, fields, and methods, along with their relationships. The diagram provides an overview of how the components of the game interact with each other.
 
+![/UML Diagram.png](https://github.com/nicole-contreras/Battle-Salvo/blob/94b3d55bfd600a734e9222379d70394712d55c41/Final%20UML.png)
+
 # Running the Game
 To play BattleSalvo, players must connect to the server using the provided host and port. Once connected, they can join a game and start playing against each other or against the AI player. Players take turns guessing coordinates to try and sink each other's ships. The game continues until one player wins by sinking all of the opponent's ships.
